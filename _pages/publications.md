@@ -95,7 +95,7 @@ Selected Publications
 
 <br /><br /><br /><br />
 
-<img align="left" width="300" src="/images/500x300.png" style="margin-right: 15px" /> \
+<img align="left" width="300" src="/_publications/assets/lpaqrnet.png" style="margin-right: 15px" /> \
 **LPAQR-Net: efficient vertebra segmentation from biplanar whole-spine radiographs**\
 🧑🏻‍💻 **Liping Zhang**, Lin Shi, Jack Chun-Yiu Cheng, Winnie Chiu-Wing Chu, Simon Chun-Ho Yu\
 📖 IEEE Journal of Biomedical and Health Informatics, 2021\
@@ -103,7 +103,7 @@ Selected Publications
 
 <br /><br /><br /><br />
 
-<img align="left" width="300" src="/images/500x300.png" style="margin-right: 15px" /> \
+<img align="left" width="300" src="/_publications/assets/polyunet.png" style="margin-right: 15px" /> \
 **Context-aware PolyUNet for liver and lesion segmentation from abdominal CT images**\
 🧑🏻‍💻 **Liping Zhang**, Simon Chun-Ho Yu\
 📖 arXiv:2305.09186 (2023)\
