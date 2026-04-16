@@ -14,7 +14,7 @@ author_profile: true
 Selected Publications
 ------
 
-<img align="left" width="300" src="/images/500x300.png" style="margin-right: 15px" /> \
+<img align="left" width="300" src="/_publications/assets/ddimo.png" style="margin-right: 15px" /> \
 **Domain‐Conditioned and Temporal‐Guided Diffusion Modeling for Accelerated Dynamic MRI Reconstruction**\
 🧑🏻‍💻 **Liping Zhang**, Iris Yuwen Zhou, Sydney B Montesi, Li Feng, Fang Liu\
 📖 NMR in Biomedicine, 2026\
@@ -22,7 +22,7 @@ Selected Publications
 
 <br /><br /><br /><br />
 
-<img align="left" width="300" src="/images/500x300.png" style="margin-right: 15px" /> \
+<img align="left" width="300" src="/_publications/assets/campnet.png" style="margin-right: 15px" /> \
 **CAMP-Net: Consistency-Aware Multi-Prior Network for Accelerated MRI Reconstruction**\
 🧑🏻‍💻 **Liping Zhang**, Xiaobo Li, Weitian Chen\
 📖 IEEE Journal of Biomedical and Health Informatics, 2025\
@@ -30,28 +30,27 @@ Selected Publications
 
 <br /><br /><br /><br />
 
-<img align="left" width="300" src="/images/500x300.png" style="margin-right: 15px" /> \
+<img align="left" width="300" src="/_publications/assets/dimo.png" style="margin-right: 15px" /> \
 **Diffusion modeling with domain-conditioned prior guidance for accelerated mri and qmri reconstruction**\
 🧑🏻‍💻 Wanyu Bian, Albert Jang, **Liping Zhang**, Xiaonan Yang, Zachary Stewart, Fang Liu\
-📖 arXiv:2305.08159 (2023)\
+📖 IEEE Transactions on Medical Imaging, 2024\
 [[paper](https://ieeexplore.ieee.org/abstract/document/10630645)] [[arxiv](https://arxiv.org/pdf/2309.00783)] 
 
 <br /><br /><br /><br />
 
-
-<img align="left" width="300" src="/images/500x300.png" style="margin-right: 15px" /> \
+<img align="left" width="300" src="/_publications/assets/xray2mri.png" style="margin-right: 15px" /> \
 **Feasibility Study of a Diffusion-Based Model for Cross-Modal Generation of Knee MRI from X-ray: Integrating External Radiographic Feature Information**\
 🧑🏻‍💻 Zhe Wang, Yung Hsin Chen, Aladine Chetouani, Fabian Bauer, Yuhua Ru, Fang Chen, **Liping Zhang**, Rachid Jennane, Mohamed Jarraya\
 📖 IEEE Journal of Biomedical and Health Informatics, 2025\
-[[paper](https://ieeexplore.ieee.org/abstract/document/11098903)] 
+[[paper](https://ieeexplore.ieee.org/abstract/document/11098903)] [[arxiv](https://arxiv.org/html/2410.06997v3)] 
 
 <br /><br /><br /><br />
 
-<img align="left" width="300" src="/images/500x300.png" style="margin-right: 15px" /> \
+<img align="left" width="300" src="/_publications/assets/koa_detection.png" style="margin-right: 15px" /> \
 **Confidence-driven deep learning framework for early detection of knee osteoarthritis**\
 🧑🏻‍💻 Zhe Wang, Aladine Chetouani, Yung Hsin Chen, Yuhua Ru, Fang Chen, Mohamed Jarraya, Fabian Bauer, **Liping Zhang**, Didier Hans, Rachid Jennane\
 📖 IEEE Transactions on Biomedical Engineering, 2025\
-[[paper](https://ieeexplore.ieee.org/abstract/document/11072912)] 
+[[paper](https://ieeexplore.ieee.org/abstract/document/11072912)] [[arxiv](https://arxiv.org/html/2303.13203v2)] 
 
 <br /><br /><br /><br />
 
@@ -63,7 +62,7 @@ Selected Publications
 
 <br /><br /><br /><br />
 
-<img align="left" width="300" src="/images/500x300.png" style="margin-right: 15px" /> \
+<img align="left" width="300" src="/_publications/assets/cartimorph.png" style="margin-right: 15px" /> \
 **CartiMorph: a framework for automated knee articular cartilage morphometrics**\
 🧑🏻‍💻 Yongcheng Yao, Junru Zhong, **Liping Zhang**, Sheheryar Khan, Weitian Chen\
 📖 Medical Image Analysis, 2024\
@@ -71,25 +70,26 @@ Selected Publications
 
 <br /><br /><br /><br />
 
-<img align="left" width="300" src="/images/500x300.png" style="margin-right: 15px" /> \
+<img align="left" width="300" src="/_publications/assets/ktclair.png" style="margin-right: 15px" /> \
 **k-t CLAIR: Self-consistency Guided Multi-prior Learning for Dynamic Parallel MR Image Reconstruction**\
 🧑🏻‍💻 **Liping Zhang**, Weitian Chen\
 📖 Statistical Atlases and Computational Models of the Heart, MICCAI Workshop, 2023\
-[[paper](https://link.springer.com/chapter/10.1007/978-3-031-52448-6_30)] [[arxiv](https://arxiv.org/pdf/2310.11050)] 
+[[paper](https://link.springer.com/chapter/10.1007/978-3-031-52448-6_30)] [[arxiv](https://arxiv.org/pdf/2310.11050)] [[code](https://github.com/lpzhang/ktCLAIR)] [video](https://www.youtube.com/watch?v=-VVPB1IN0n8)] 
+
 
 <br /><br /><br /><br />
 
 <img align="left" width="300" src="/images/500x300.png" style="margin-right: 15px" /> \
 **The state-of-the-art in cardiac mri reconstruction: Results of the cmrxrecon challenge in miccai 2023**\
-🧑🏻‍💻 Jun Lyu, Chen Qin, Shuo Wang, Fanwen Wang, Yan Li, Zi Wang, Kunyuan Guo, Cheng Ouyang, Michael Tänzer, Meng Liu, Longyu Sun, Mengting Sun, Qing Li, Zhang Shi, Sha Hua, Hao Li, Zhensen Chen, Zhenlin Zhang, Bingyu Xin, Dimitris N Metaxas, George Yiasemis, Jonas Teuwen, **Liping Zhang**, Weitian Chen, Yidong Zhao, Qian Tao, Yanwei Pang, Xiaohan Liu, Artem Razumov, Dmitry V Dylov, Quan Dou, Kang Yan, Yuyang Xue, Yuning Du, Julia Dietlmeier, Carles Garcia-Cabrera, Ziad Al-Haj Hemidi, Nora Vogt, Ziqiang Xu, Yajing Zhang, Ying-Hua Chu, Weibo Chen, Wenjia Bai, Xiahai Zhuang, Jing Qin, Lianming Wu, Guang Yang, Xiaobo Qu, He Wang, Chengyan Wang\
+🧑🏻‍💻 Jun Lyu, Chen Qin, Shuo Wang, ..., **Liping Zhang**, Weitian Chen, ..., Xiaobo Qu, He Wang, Chengyan Wang\
 📖 Medical image analysis, 2025\
-[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841525000337)] [[arxiv](https://arxiv.org/abs/2404.01082)] 
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841525000337)] [[arxiv](https://arxiv.org/abs/2404.01082)] [[code](https://github.com/CmrxRecon/CMRxRecon)] 
 
 <br /><br /><br /><br />
 
 <img align="left" width="300" src="/images/500x300.png" style="margin-right: 15px" /> \
 **The liver tumor segmentation benchmark (lits)**\
-🧑🏻‍💻 Patrick Bilic, Patrick Christ, Hongwei Bran Li, Eugene Vorontsov, Avi Ben-Cohen, Georgios Kaissis, Adi Szeskin, Colin Jacobs, Gabriel Efrain Humpire Mamani, Gabriel Chartrand, Fabian Lohöfer, Julian Walter Holch, Wieland Sommer, Felix Hofmann, Alexandre Hostettler, Naama Lev-Cohain, Michal Drozdzal, Michal Marianne Amitai, Refael Vivanti, Jacob Sosna, Ivan Ezhov, Anjany Sekuboyina, Fernando Navarro, Florian Kofler, Johannes C Paetzold, Suprosanna Shit, Xiaobin Hu, Jana Lipková, Markus Rempfler, Marie Piraud, Jan Kirschke, Benedikt Wiestler, Zhiheng Zhang, Christian Hülsemeyer, Marcel Beetz, Florian Ettlinger, Michela Antonelli, Woong Bae, Míriam Bellver, Lei Bi, Hao Chen, Grzegorz Chlebus, Erik B Dam, Qi Dou, Chi-Wing Fu, Bogdan Georgescu, Xavier Giró-i-Nieto, Felix Gruen, Xu Han, Pheng-Ann Heng, Jürgen Hesser, Jan Hendrik Moltz, Christian Igel, Fabian Isensee, Paul Jäger, Fucang Jia, Krishna Chaitanya Kaluva, Mahendra Khened, Ildoo Kim, Jae-Hun Kim, Sungwoong Kim, Simon Kohl, Tomasz Konopczynski, Avinash Kori, Ganapathy Krishnamurthi, Fan Li, Hongchao Li, Junbo Li, Xiaomeng Li, John Lowengrub, Jun Ma, Klaus Maier-Hein, Kevis-Kokitsi Maninis, Hans Meine, Dorit Merhof, Akshay Pai, Mathias Perslev, Jens Petersen, Jordi Pont-Tuset, Jin Qi, Xiaojuan Qi, Oliver Rippel, Karsten Roth, Ignacio Sarasua, Andrea Schenk, Zengming Shen, Jordi Torres, Christian Wachinger, Chunliang Wang, Leon Weninger, Jianrong Wu, Daguang Xu, Xiaoping Yang, Simon Chun-Ho Yu, Yading Yuan, Miao Yue, **Liping Zhang**, Jorge Cardoso, Spyridon Bakas, Rickmer Braren, Volker Heinemann, Christopher Pal, An Tang, Samuel Kadoury, Luc Soler, Bram van Ginneken, Hayit Greenspan, Leo Joskowicz, Bjoern Menze\
+🧑🏻‍💻 Patrick Bilic, Patrick Christ, Hongwei Bran Li, Eugene Vorontsov, ..., **Liping Zhang**, ..., Hayit Greenspan, Leo Joskowicz, Bjoern Menze\
 📖 Medical image analysis, 2023\
 [[paper](https://www.sciencedirect.com/science/article/pii/S1361841522003085)] [[arxiv](https://arxiv.org/abs/1901.04056)] 
 
