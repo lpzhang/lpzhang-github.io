@@ -54,7 +54,7 @@ Selected Publications
 
 <br /><br /><br /><br />
 
-<img align="left" width="300" src="/images/500x300.png" style="margin-right: 15px" /> \
+<img align="left" width="300" src="/_publications/assets/underwater.jpg" style="margin-right: 15px" /> \
 **Cascaded frameworks in underwater optical image restoration**\
 🧑🏻‍💻 Bincheng Li, Ziqian Chen, Liuyan Lu, Pengfei Qi, **Liping Zhang**, Qianwen Ma, Haofeng Hu, Jingsheng Zhai, Xiaobo Li\
 📖 Information Fusion, 2025\
@@ -79,7 +79,7 @@ Selected Publications
 
 <br /><br /><br /><br />
 
-<img align="left" width="300" src="/images/500x300.png" style="margin-right: 15px" /> \
+<img align="left" width="300" src="/_publications/assets/cmrxrecon.jpg" style="margin-right: 15px" /> \
 **The state-of-the-art in cardiac mri reconstruction: Results of the cmrxrecon challenge in miccai 2023**\
 🧑🏻‍💻 Jun Lyu, Chen Qin, Shuo Wang, ..., **Liping Zhang**, Weitian Chen, ..., Xiaobo Qu, He Wang, Chengyan Wang\
 📖 Medical image analysis, 2025\
@@ -87,7 +87,7 @@ Selected Publications
 
 <br /><br /><br /><br />
 
-<img align="left" width="300" src="/images/500x300.png" style="margin-right: 15px" /> \
+<img align="left" width="300" src="/_publications/assets/lits.png" style="margin-right: 15px" /> \
 **The liver tumor segmentation benchmark (lits)**\
 🧑🏻‍💻 Patrick Bilic, Patrick Christ, Hongwei Bran Li, Eugene Vorontsov, ..., **Liping Zhang**, ..., Hayit Greenspan, Leo Joskowicz, Bjoern Menze\
 📖 Medical image analysis, 2023\
